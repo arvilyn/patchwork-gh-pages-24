@@ -3,6 +3,11 @@ profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVe
 name: "Adrian M Ryan"
 title: "Education Consultant"
 ---
+---
+profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
+name: "Adrian M Ryan"
+title: "Education Consultant"
+---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
 
@@ -23,6 +28,10 @@ Adrian is available for projects on a case by case basis. Some of the services h
 * Management coaching
 * Interviewing, hiring, and onboarding process creation
 
+#### Education Design and Management
+* Course development
+* Process creation for course authoring teams
+* 
 #### Education Design and Management
 * Course development
 * Process creation for course authoring teams
